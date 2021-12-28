@@ -1,0 +1,12 @@
+1. Dataset Subject : League Of Legends Challenger Ranked Games Data(2020)
+
+2. Dataset Address : https://www.kaggle.com/gyejr95/league-of-legends-challenger-ranked-games2020
+
+3. About the dataset :
+ - This dataset contains around 20000 of rows about various factors which is relevant the game rounds.
+ - The response (y) are 'blueWins' and 'redWins', and features (X) are consisted with categorical and numerical data.
+
+4. How it was optained : 
+- When I was trying to find a different dataset with default ones for classification, this subject popped into my mind.
+  So, I searched dataset and there were appropriate dataset on Kaggle which one of Korean LOL players gathered by using Open API.
+  (Fortunately, there was no project similar or same with my project)
